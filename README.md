@@ -119,6 +119,6 @@ Interactive documentation is available at [`/api-docs`](http://localhost:5000/ap
 
 ---
 
-## License
+## DEMO VIDEO
 
-MIT
+https://drive.google.com/file/d/1LdnFFUHU1fpkiSrDu5T3I7-Kxk_UR6Im/view?usp=sharing
